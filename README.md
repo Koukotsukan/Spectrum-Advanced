@@ -1,5 +1,5 @@
 # Spectrum-Advanced
-This script is to help users automatically login University of Malaya's SPeCTRUM system by sending request. Here is the link of <a href="https://greasyfork.org/en/scripts/427693-spectrum-advanced">GreasyForks</a>.
+This script is to help users automatically login University of Malaya's SPeCTRUM system by sending request. Here is the link of <a href="https://greasyfork.org/en/scripts/427693-spectrum-advanced">GreasyFork</a>.
 <hr>
 This is an **advanced** version that directly simulate the login request instead of pressing buttons, which means that it can help you log in faster. Here we have another version that switches windows and presses buttons for you <a href="https://github.com/Koukotsukan/UM-Spectrum-Auto-Login">Spectrum Auto Login</a>, you are free to decide which one to use.
 <hr>
