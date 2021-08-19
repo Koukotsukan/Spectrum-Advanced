@@ -29,7 +29,7 @@
             if (GM_getValue('status') == 1 && GM_getValue('pwd') && GM_getValue('uname')){
                 GM_xmlhttpRequest ({
                     method:     "GET",
-                    url:        "https://casv.um.edu.my/cas/loginAllType?service=https://spectrum.um.edu.my/login/index.php",
+                    url:        "https://sso.um.edu.my/cas/loginAllType?service=https://spectrum.um.edu.my/login/index.php",
                     headers:    {
                         "Content-Type": "text/html; charset=utf-8"
                     },
@@ -44,7 +44,7 @@
                             data2 = "uname=" + GM_getValue('uname') +"&password=" + GM_getValue('pwd') + "&domain=%40perdana.um.edu.my&lt=" + lt + "&_eventId=submit&username="+GM_getValue('uname')+"%40perdana.um.edu.my"
                             GM_xmlhttpRequest ({
                                 method:     "POST",
-                                url:        "https://casv.um.edu.my/cas/loginAllType?service=https://spectrum.um.edu.my/login/index.php",
+                                url:        "https://sso.um.edu.my/cas/loginAllType?service=https://spectrum.um.edu.my/login/index.php",
                                 data:       data2,
                                 headers:    {
                                     "Content-Type": "application/x-www-form-urlencoded"
