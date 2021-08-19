@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Spectrum Advanced
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  This script is designed to help users automatically log into the University of Malaya's SPeCTRUM system(by sending request).
 // @author       Koukotsukan Neo
 // @match        https://casv.um.edu.my/cas/loginAllType?service=*
