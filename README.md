@@ -10,4 +10,4 @@ Manual:
 3. After 2., it will pop up a page that asks if you allow Internet request sent by the script, you need to choose "Always Allow" if you want to use the script.
 
 <hr>
-I didn't add any malware or spy code in this script, you can check the code first then decide whether to use. If you meet any problems, feel free to create an issue on GitHub.
+If you meet any problems, feel free to create an issue on GitHub.
